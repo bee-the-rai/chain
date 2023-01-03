@@ -1,4 +1,9 @@
-# chain
-Blockchain Educational Site 
+# Mov Com
 
-This is a test to commit 
+## Movie Streaming Site 
+
+## Designed using Figma
+## CSS code built using Figma 
+
+## Showcase and design assets made in Adobe Illustrator  
+
